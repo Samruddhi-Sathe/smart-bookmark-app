@@ -1,5 +1,4 @@
-import LoginButton from "../components/LoginButton"
-
+import LoginButton from '../components/LoginButton'
 export default function Home() {
   return (
     <main className="mx-auto max-w-xl p-6">
